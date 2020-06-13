@@ -1,0 +1,18 @@
+button {
+	width: 75px;
+	height: 80px;
+	font-size: 20px;
+}
+
+button:focus {
+	outline: none;
+}
+
+.op {
+	background-color: #cceabb;
+}
+
+#clear {
+	width: 150px;
+	background-color: #fdcb9e;
+}
